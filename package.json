@@ -1,0 +1,21 @@
+{
+  "name": "rawg-alfred",
+  "version": "1.0.0",
+  "description": "Search RAWG from Alfred",
+  "scripts": {
+    "postinstall": "alfy-init && mkdir cache cache/games cache/manga cache/users"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewdias/rawg-alfred.git"
+  },
+  "author": "matthewdias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewdias/rawg-alfred/issues"
+  },
+  "homepage": "https://github.com/matthewdias/rawg-alfred",
+  "dependencies": {
+    "alfy": "^0.6.0"
+  }
+}
