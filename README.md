@@ -1,3 +1,5 @@
+![](./screenshot.png)
+
 ## Usage
 Type in Alfred: `rawg <query>`
 
