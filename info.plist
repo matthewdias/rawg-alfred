@@ -71,7 +71,7 @@
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>3F3071E0-9155-4976-A5FB-4BB700CD21E7</string>
+			<string>8A04025B-6E78-4089-9AE0-14DA4F832B9F</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -99,13 +99,6 @@
 	<string></string>
 	<key>uidata</key>
 	<dict>
-		<key>3F3071E0-9155-4976-A5FB-4BB700CD21E7</key>
-		<dict>
-			<key>xpos</key>
-			<integer>100</integer>
-			<key>ypos</key>
-			<integer>170</integer>
-		</dict>
 		<key>8A04025B-6E78-4089-9AE0-14DA4F832B9F</key>
 		<dict>
 			<key>xpos</key>
