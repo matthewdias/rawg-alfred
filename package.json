@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Search RAWG from Alfred",
   "scripts": {
-    "postinstall": "alfy-init && mkdir cache cache/games cache/manga cache/users"
+    "postinstall": "alfy-init && mkdir cache cache/games",
+    "preuninstall": "alfy-cleanup"
   },
   "repository": {
     "type": "git",
